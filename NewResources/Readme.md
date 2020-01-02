@@ -1,0 +1,7 @@
+- http://deepdreamgenerator.com
+- http://pandorabots.com/mitsuku
+- http://captionbot.ai
+- http://affinelayer.com/pixsrv
+- http://experiments.madewithgoogle.com
+- http://tens.rs/demos/fast-neural-style
+- http://playground.tensorflow.org
