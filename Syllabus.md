@@ -69,7 +69,7 @@ Lessons will be uploaded to this repo prior to each class.
 
 ## Schedule (SUBJECT TO CHANGE)
 
-* Week 1 (Feb 3rd) – [Overview] Course summary, introductions and semester project discussions && Guest lecture by Joel Peterson - Five Ws of Data Science aka "Crash course in building a plane while flying it"
+* Week 1 (Feb 3rd) – [Overview] Course summary, introductions and semester project discussions - Five Ws of Data Science aka "Crash course in building a plane while flying it"
 * Week 2 (Feb 10th) – [Enterprise Architect] Computer/System Architecture aka "Abstraction - the root of all evil" && [System Administrator] Linux and the command line aka "Let me micro your kernel"
 * DUE: Send in a short paragraph about final project - what question do you have?
 * Week 3 (Feb 17th) – [Data Scientist] Hadoop and Apache stack aka "Lambdas, Key-Value store, MapReduce. But why?"
