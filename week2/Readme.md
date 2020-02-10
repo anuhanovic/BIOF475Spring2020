@@ -2,7 +2,8 @@
 
 - Housekeeping (one drop)
 - Recap
-- Big Picture
+- Big Picture (https://superstarcluster.blogspot.com/)
+- What is an abstration?
 - GUI vs CLI
 - Service Models
 - Project ideas (Notebook in the cloud)
