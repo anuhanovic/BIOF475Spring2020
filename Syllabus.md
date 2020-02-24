@@ -24,11 +24,10 @@ What is Data Science is and how can one use Big Data technologies to unlock valu
 This is a 15-week course starting from February 3rd to May 9th 2020, every Monday from 5:30-7:30 pm in Building 60 (Room: Rathskeller, in the basement). Attendance in class is strongly recommended; however, if you need to miss a class please do come talk to us. Most classes will have hands-on tutorials and a follow-up assignment. The assignment will be due before the next class. For each class, we have recommended reading. It is the responsibility of the student to familiarize him/her-self with the material before coming to class; this will allow the student to learn at their own pace. 
 
 ## Important dates: 
-* ~Feb 23rd  - Last day to drop
-* ~March 30th - Last day to change status (credit or audit)
-* ~May 9th - Classes end
-* SPRING TERM HOLIDAYS	
-* None.
+* Feb 21rd  - Last day to drop
+* April 10th - Last day to change status (credit or audit)
+* May 4th - Classes end
+* SPRING TERM HOLIDAYS - Feb 17th 2020 (President's Day)
 
 ## Discussions & Questions
 Students are encouraged to use Github for discussions and questions. Students are also encouraged to help and answer fellow classmates’ questions (NOT by giving away solutions to homework questions). Such behavior will earn bonus points. 
@@ -72,22 +71,21 @@ Lessons will be uploaded to this repo prior to each class.
 * Week 1 (Feb 3rd) – [Overview] Course summary, introductions and semester project discussions - Five Ws of Data Science aka "Crash course in building a plane while flying it"
 * Week 2 (Feb 10th) – [Enterprise Architect] Computer/System Architecture aka "Abstraction - the root of all evil" && [System Administrator] Linux and the command line aka "Let me micro your kernel"
 * DUE: Send in a short paragraph about final project - what question do you have?
-* Week 3 (Feb 17th) – [Data Scientist] Hadoop and Apache stack aka "Lambdas, Key-Value store, MapReduce. But why?"
-* Week 4 (Feb 24th) - [System Administrator] OpenStack aka "The village has spoken"
-* Week 5 (Marchth) – [Decision Maker] Insights from the experts
-* __Feb 23rd - Last day to drop__
-* Week 6 (Mar 7th) – [Programmer] Python vs R vs Pig aka "Our differences make us better"
-* Week 7 (Mar 14st) – [Computer scientist] Machine Learning aka "Daisy Bell by HAL 9000"
-* Week 8 (Mar 21st) – [Decision Maker] Guest lecture by Farbod Fakhrai - Security aka "To PII or not to PII"
-* Week 9 (Mar 28th) – [Data Janitor] Wrangling your data aka "Pareto principle is real"
-* __March 30th - Last day to change status (credit or audit)__
-* Week 10 (Apr 4th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
-* Week 11 (Apr 11th) – [Deep Learning] && [Revolutionary] What is Serverless? && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project” (WEKA and TensorFlow)
-* Week 12 (Apr 18th) – [Human] Visualization aka "The pale blue dot"
-* Week 13 (Apr 25th) – [Decision Maker] Data Science Challenges "Welcome to the real world"
-* Week 14 (May 2nd) – Students: Final Project Presentations
-* Week 15 (May 9th) - Students: Final Project Presentations
-* __Project source code, data files (where possible) and presentation due May 9th.__
+* Week 3 (Feb 17th) – Holiday
+* Week 4 (Feb 24th) - [System Administrator] git aka "where do I get it" and CLI (command line interface)
+* Week 5 (March 2nd) – [Decision Maker] Insights from the experts
+* __Feb 21st - Last day to drop__
+* Week 6 (Mar 9th) – [Programmer] Python vs R vs Pig aka "Our differences make us better" (remote)
+* Week 7 (Mar 16st) – [Computer scientist] Machine Learning aka "Daisy Bell by HAL 9000"
+* Week 8 (Mar 23st) – [Data Scientist] Guest lecture by Jeff Woodall - Unified Analytics Engine aka "Open source is the best source"
+* Week 9 (Mar 30th) – [Decision Maker] Guest lecture by Farbod Fakhrai - Security aka "To PII or not to PII"
+* __April 10th - Last day to change status (credit or audit)__
+* Week 10 (Apr 6th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
+* Week 11 (Apr 13th) – [Deep Learning] && [Revolutionary] What is Serverless? && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project” (TensorFlow)
+* Week 12 (Apr 20th) – [Human] Visualization aka "The pale blue dot"
+* Week 13 (Apr 27th) – [Decision Maker] Data Science Challenges "Welcome to the real world"
+* Week 14 (May 4th) - Students: Final Project Presentations
+* __Project source code, data files (where possible) and presentation due May 4th.__
 
 * Other topics (if there’s time):
 * [Enterprise Architect] NoSQL databases aka "Don't be so relational"
