@@ -130,4 +130,4 @@
 6. Can predictive models be deployed to production without custom engineering or infrastructure work?
 7. Is there a single place to search for past research and reusable data sets, code, etc?
 8. Do your data scientists use the best tools money can buy?
-
+.
