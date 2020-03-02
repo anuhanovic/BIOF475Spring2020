@@ -25,7 +25,7 @@
 
 - Wiki definition
 
-- Software devs, code but also scripts, but can be used for documentation, collaboration.
+- Software devs, code but also scripts, but can be used for documentation, collaboration. And more
 
 - Hardest problem on the hardest test. Putnam. Shift in perspective.
 - https://lsusmath.rickmabry.org/psisson/putnam/putnam-web.htm
