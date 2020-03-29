@@ -1,5 +1,5 @@
 # BIOF 475: Introduction to New Technologies in Data Science
-# Spring 2020
+# Spring (& due to COVID-19 Summer) 2020
 
 * Submit assignments by uploading them in the Homeworks folder.
 * Open issues in this repo for discussion and questions.
@@ -21,12 +21,12 @@ What is Data Science is and how can one use Big Data technologies to unlock valu
 * Complete a short research project using Data Science techniques and technologies
 
 ## Logistics
-This is a 15-week course starting from February 3rd to May 9th 2020, every Monday from 5:30-7:30 pm in Building 60 (Room: Rathskeller, in the basement). Attendance in class is strongly recommended; however, if you need to miss a class please do come talk to us. Most classes will have hands-on tutorials and a follow-up assignment. The assignment will be due before the next class. For each class, we have recommended reading. It is the responsibility of the student to familiarize him/her-self with the material before coming to class; this will allow the student to learn at their own pace. 
+This is a ~~15-week course starting from February 3rd to May 9th 2020, every Monday from 5:30-7:30 pm in Building 60 (Room: Rathskeller, in the basement)~~ We are now online, ending May 25th. Attendance in class is strongly recommended; however, if you need to miss a class please do come talk to us. Most classes will have hands-on tutorials and a follow-up assignment. The assignment will be due before the next class. For each class, we have recommended reading. It is the responsibility of the student to familiarize him/her-self with the material before coming to class; this will allow the student to learn at their own pace. 
 
 ## Important dates: 
 * Feb 21rd  - Last day to drop
 * April 10th - Last day to change status (credit or audit)
-* May 4th - Classes end
+* ~~May 4th~~ May 25th - Classes end
 * SPRING TERM HOLIDAYS - Feb 17th 2020 (President's Day)
 
 ## Discussions & Questions
@@ -83,7 +83,7 @@ Lessons will be uploaded to this repo prior to each class.
 * __April 10th - Probably no longer applies as all courses are now Pass/Fail - Last day to change status (credit or audit)__
 * Week 10 (~~Apr 6th~~ Apr 27th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
 * Week 11 (~~Apr 13th~~ May 4th) – [Revolutionary] What is Serverless? && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project” (TensorFlow)
-* Week 12 (~~Apr 20th~~ May 11th) –  [Statistitian] Machine Learning aka "Daisy Bell by HAL 9000"
+* Week 12 (~~Apr 20th~~ May 11th) –  [Statistician] Machine Learning aka "Daisy Bell by HAL 9000"
 * Week 13 (~~Apr 27th~~ May 18th) – [Decision Maker] Data Science Challenges "Welcome to the real world"
 * Week 14 (~~May 4th~~ May 25th) - Students: Final Project Presentations
 * __Project source code, data files (where possible) and presentation due May 25th.__
