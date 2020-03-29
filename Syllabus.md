@@ -76,19 +76,19 @@ Lessons will be uploaded to this repo prior to each class.
 * Week 5 (March 2nd) – [Decision Maker] Insights from the experts
 * __Feb 21st - Last day to drop__
 * Week 6 (Mar 9th) – [Programmer] Python vs R vs Pig aka "Our differences make us better" (remote)
-* Week 7 (Mar 16st) – [Computer scientist] Machine Learning aka "Daisy Bell by HAL 9000"
-* Week 8 (Mar 23st) – [Data Scientist] Guest lecture by Jeff Woodall - Unified Analytics Engine aka "Open source is the best source"
-* Week 9 (Mar 30th) – [Decision Maker] Guest lecture by Farbod Fakhrai - Security aka "To PII or not to PII"
-* __April 10th - Last day to change status (credit or audit)__
-* Week 10 (Apr 6th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
-* Week 11 (Apr 13th) – [Deep Learning] && [Revolutionary] What is Serverless? && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project” (TensorFlow)
-* Week 12 (Apr 20th) – [Human] Visualization aka "The pale blue dot"
-* Week 13 (Apr 27th) – [Decision Maker] Data Science Challenges "Welcome to the real world"
-* Week 14 (May 4th) - Students: Final Project Presentations
-* __Project source code, data files (where possible) and presentation due May 4th.__
+* __March 16th - 30th Coronovirus break__
+* Week 7 (~~Mar 16st~~ Apr 6th) – [Storyteller] Visualization aka "The pale blue dot"
+* Week 8 (~~Mar 23st~~ Apr 13th) – [Data Scientist] Guest lecture by Jeff Woodall - Unified Analytics Engine aka "Open source is the best source"
+* Week 9 (~~Mar 30th~~ Apr 20th) – [Decision Maker] Guest lecture by Farbod Fakhrai - Security aka "To PII or not to PII"
+* __April 10th - Probably no longer applies as all courses are now Pass/Fail - Last day to change status (credit or audit)__
+* Week 10 (~~Apr 6th~~ Apr 27th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
+* Week 11 (~~Apr 13th~~ May 4th) – [Revolutionary] What is Serverless? && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project” (TensorFlow)
+* Week 12 (~~Apr 20th~~ May 11th) –  [Statistitian] Machine Learning aka "Daisy Bell by HAL 9000"
+* Week 13 (~~Apr 27th~~ May 18th) – [Decision Maker] Data Science Challenges "Welcome to the real world"
+* Week 14 (~~May 4th~~ May 25th) - Students: Final Project Presentations
+* __Project source code, data files (where possible) and presentation due May 25th.__
 
 * Other topics (if there’s time):
 * [Enterprise Architect] NoSQL databases aka "Don't be so relational"
-* [Good citizen] Open Source aka "Why is GitHub largest host of source code in the world?" 
 * [Decision Maker] Data Stream Mining aka “I did need it yesterday”
 * [Decision Maker] Datacenter OS aka “Let’s get philosophical”
