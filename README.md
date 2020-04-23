@@ -26,3 +26,5 @@ The FAES Academic Programs at NIH - Advanced Studies in Bioinformatics and Data 
 ### https://github.com/adamwalz/Jupyter-Notebooks/blob/master/machine_learning/tutorials/parallel_ml_tutorial/solutions/01%20-%20An%20Introduction%20to%20Predictive%20Modeling%20in%20Python.ipynb
 
 ### https://github.com/YeoLab/single-cell-bioinformatics-scrm-2016/blob/master/2._Exploring_your_data/2.1_Introduction.ipynb
+
+### https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2
